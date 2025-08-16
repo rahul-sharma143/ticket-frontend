@@ -7,7 +7,9 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Ticket",
   description: "Created with v0",
-    generator: 'v0.app'
+    icons:{
+      icon:"tickets_418351.png"
+    }
 };
 
 export default function RootLayout({
